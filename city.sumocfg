@@ -1,0 +1,16 @@
+<configuration>
+    <input>
+        <net-file value="city.net.xml"/>
+        <route-files value="car.rou.xml,bus.rou.xml,truck.rou.xml"/>
+        <additional-files value="vtypes.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="60"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="30"/>
+    </processing>
+</configuration>
