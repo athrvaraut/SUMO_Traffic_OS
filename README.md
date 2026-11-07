@@ -34,7 +34,7 @@ Based on the core workspace, the project is structured as follows:
 ├── main.py                   # Central multi-threaded simulation runtime engine
 ├── plot_results.py           # Utility generating static analytical visualization plots
 ├── streamlit_app.py          # Interactive web-based dashboard app
-├── requirements.txt          # Production environment dependencies catalog
+├── requirements.txt          # Python dependencies
 ├── run_final_light.bat       # Automation script running low-density traffic scenarios
 └── run_final_heavy.bat       # Automation script running high-density traffic scenarios
 
